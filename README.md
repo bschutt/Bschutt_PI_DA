@@ -35,8 +35,7 @@ Este archivo contiene una representación visual de la distribución de los sini
 ![Alt text](Mapa_de_calor.PNG)
 
 
-_Enlace_
-[Mapa de siniestros interactivo](http://localhost:8000/mapa_siniestros.html)
+
 
 ### 3. Análisis de los KPIs propuestos, y el desarollo de un tercero: 
 

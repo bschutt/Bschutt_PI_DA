@@ -11,7 +11,7 @@
 
 ## INTRODUCCIÓN AL PROYECTO
 
-La ejecución de este proyecto se lleva a cabo desde la perspectiva de un analista de datos,en el cual me centro en analizar datos relativos a incidentes de tránsito en la Ciudad Autónoma de Buenos Aires, con el propósito de suministrar información que respalde la adopción de medidas destinadas a disminuir el número de siniestros viales,. Este análisis está realizado en colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV) perteneciente a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires, basándose en una compilación de datos que abarca el período comprendido entre 2016 y 2021.
+La ejecución de este proyecto se lleva a cabo desde la perspectiva de un analista de datos,en el cual me centro en analizar datos relativos a incidentes de tránsito en la Ciudad Autónoma de Buenos Aires, con el propósito de suministrar información que respalde la adopción de medidas destinadas a disminuir el número de siniestros viales,. Este análisis está realizado en colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV) perteneciente a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires. Para el análisis en cuestión nos proporcionaron un conjunto de datos que abarca el período comprendido entre 2016 y 2021.
 
 
 
@@ -27,7 +27,7 @@ _Pasos realizados:_
 
 ### 2.  EDA: 
 Se procede a la normalización y depuración de inconsistencias presente en el conjunto de datos. Posteriormente, se lleva a cabo una primera etapa de visualización y análisis. 
-Además se desarolló un  _Mapa de Calor_ en el cual dicho proceso de creación inicia con una filtración selectiva de los siniestros. Luego se obtienen las coordenadas (POS_X, POS_Y) asociadas al lugar de ocurrencia de los siniestros. Estas coordenadas constituirán la base sobre la cual se construirá el mapa.
+Además se desarolló un  _Mapa de Calor_ en el cual dicho proceso de creación inicia con una filtración selectiva de los siniestros. Luego se obtienen las coordenadas asociadas al lugar de ocurrencia de los siniestros y estas constituirán la base sobre la cual se construirá el mapa.
 La visualización se realiza a través de un HeatMap, el cual superpone una representación gráfica de la densidad de siniestros. Esta representación emplea una escala de colores que va desde tonalidades de azul (indicando una baja densidad) hasta tonos de rojo (indicando una alta densidad).
 Luego, el mapa resultante es guardado como un archivo HTML bajo el nombre "mapa_siniestros.html". 
 Este archivo contiene una representación visual de la distribución de los siniestros, y nos proporciona una herramienta efectiva para el análisis y la toma de decisiones.
@@ -92,3 +92,4 @@ Ya que en general los sinietros ocurren al ascender y descender de los vehículo
 * Matplotlib
 * Folium
 * PowerBI
+* Seaborn

@@ -11,7 +11,7 @@
 
 ## INTRODUCCIÓN AL PROYECTO
 
-La ejecución de este proyecto se lleva a cabo desde la perspectiva de un analista de datos,en el cual me centro en analizar datos relativos a incidentes de tránsito en la Ciudad Autónoma de Buenos Aires, con el propósito de suministrar información que respalde la adopción de medidas destinadas a disminuir el número de siniestros viales,. Este análisis está realizado en colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV) perteneciente a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires. Para el análisis en cuestión nos proporcionaron un conjunto de datos que abarca el período comprendido entre 2016 y 2021.
+La ejecución de este proyecto se lleva a cabo desde la perspectiva de un analista de datos, en el cual me centro en analizar datos relativos a incidentes de tránsito en la Ciudad Autónoma de Buenos Aires, con el propósito de suministrar información que respalde la adopción de medidas destinadas a disminuir el número de siniestros viales. Este análisis está realizado en colaboración con el Observatorio de Movilidad y Seguridad Vial (OMSV) perteneciente a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires. Para el análisis en cuestión nos proporcionaron un conjunto de datos que abarca el período comprendido entre 2016 y 2021.
 
 
 
